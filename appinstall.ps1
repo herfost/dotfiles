@@ -21,5 +21,5 @@ winget install -e --id Spotify.Spotify;
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 irm get.scoop.sh | iex
 
-scoop install oh-my-posh fzf psfzf curl jq sudo dark gcc make
+scoop install oh-my-posh fzf psfzf curl jq sudo dark gcc make tar gpg
 scoop install Iosevka-NF JetBrainsMono-NF FantasqueSansMono-NF Hack-NF Cascadia-Code
