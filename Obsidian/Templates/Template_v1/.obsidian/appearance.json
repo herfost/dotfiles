@@ -1,0 +1,9 @@
+{
+  "accentColor": "#3790cc",
+  "monospaceFontFamily": "Iosevka Term",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "accademic_export",
+    "notes_configuration_addons"
+  ]
+}
